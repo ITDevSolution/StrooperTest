@@ -42,6 +42,7 @@ una App también es un software por ende cuenta con estas mismas etapas,sin emba
 
 *Etapas de trabajo simultaneo entre el diseñador y desarrollador*
 ![alt text][logo2]
+
 [logo2]: https://github.com/ITDevSolution/StrooperTest/blob/master/src/common/images/ciclo_life_app.png "Etapas de un trabajo simultaneo"
 
 1. Conceptualización.
@@ -121,6 +122,7 @@ con el objetivo de tener usuarios con quien competir.*
 
 Ejemplo en documento:
 ![alt text][historia_usuario]
+
 [historia_usuario]: https://github.com/ITDevSolution/StrooperTest/blob/master/src/common/images/historia_usuario.png "Historia de usuario en documento"
 
 La historia de usuario tambien debe contener los criterios de aceptación de la funcionalidad el cual incluye el contexto, evento y resultado.
