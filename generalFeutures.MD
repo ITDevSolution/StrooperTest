@@ -24,6 +24,6 @@
 Estructura:
 ![alt text][logo]
 
-[logo] : https://github.com/ITDevSolution/StrooperTest/blob/master/src/common/images/metodologias.png "Estructura de Metodologías Tradicionales"
+[logo]: https://github.com/ITDevSolution/StrooperTest/blob/master/src/common/images/metodologias.png "Estructura de Metodologías Tradicionales"
 
 RUP : Rational unifined process, el RUP  es una metología muy grande enfocada a proyectos muy grandes y muy robustos donde se ataca el ciclo de vida del software, de ahi se puede derivar otras metodologías como ICONIX.
